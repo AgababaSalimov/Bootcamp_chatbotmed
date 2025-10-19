@@ -52,15 +52,3 @@ This process ensures the model’s answers are **grounded in relevant data** rat
 Some patients may also feel tired or have a sore throat.
 
 ---
-
-## 🧰 How to Run the Project
-
-### Option 1 — Open in Colab
-You can directly open and run this notebook on Colab:  
-👉 [Open in Google Colab](https://colab.research.google.com/github/AghababaSalimov/healthcare-chatbot/blob/main/healthcare_chatbot.ipynb)
-
-### Option 2 — Local setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AghababaSalimov/healthcare-chatbot.git
-   cd healthcare-chatbot
